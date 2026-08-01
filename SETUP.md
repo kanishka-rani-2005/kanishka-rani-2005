@@ -9,7 +9,7 @@ git init
 git add README.md .gitignore
 git commit -m "Create GitHub profile README"
 git branch -M main
-git remote add origin https://github.com/kanishka-rani-2005/kanishka-rani-2005.git
+git remote add origin https://github.com/kanishka-rani-2005/Introduction.git
 git push -u origin main
 ```
 
