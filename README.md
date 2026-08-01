@@ -6,7 +6,6 @@
   <br />
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishka-rani-45ab4b353/)
- [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishka22043@gmail.com)
   [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kanishka22043%40gmail.com)
   [![GitHub followers](https://img.shields.io/github/followers/kanishka-rani-2005?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/kanishka-rani-2005)
 
