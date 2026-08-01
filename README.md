@@ -49,15 +49,6 @@ An end-to-end MLOps pipeline for kidney CT classification, covering ingestion, t
 ### 💬 Medical Chatbot
 Context-aware medical-query assistant built with LLaMA 2, LangChain, Pinecone vector search, and a Flask interface.
 
-## GitHub at a glance
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanishka-rani-2005&show_icons=true&hide_border=true&theme=transparent" alt="Kanishka's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-rani-2005&layout=compact&hide_border=true&theme=transparent" alt="Kanishka's most-used languages" />
-</p>
-
----
-
 <div align="center">
   <i>Open to opportunities where thoughtful software and AI can solve real problems.</i><br />
   <a href="mailto:kanishka22043@gmail.com">Let’s connect</a>
