@@ -13,15 +13,7 @@
 
 <br />
 
-## ✨ A little about me
-
-```yaml
-name: Kanishka Rani
-education: B.Tech Computer Science Engineering, Thapar University
-graduation: 2027
-interests: [Full-Stack Development, AI/ML, LLM Applications, MLOps]
-currently_building: Scalable web products with intelligent features
-```
+##  A little about me
 
 I’m a Computer Science Engineering student who enjoys taking ideas from a rough sketch to a reliable product. My work sits at the intersection of **full-stack engineering** and **applied AI**—from secure web apps and REST APIs to LLM-powered experiences and end-to-end ML pipelines.
 
@@ -31,7 +23,7 @@ I’m a Computer Science Engineering student who enjoys taking ideas from a roug
   <img src="https://img.shields.io/badge/Focus-Software%20%2B%20AI-EF4444?style=flat-square&labelColor=111827" alt="Software and AI focus" />
 </div>
 
-## 🧰 My toolkit
+##  My toolkit
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nodejs,express,django,flask,mongodb,mysql,git,docker,postman,tensorflow,pytorch&perline=8" alt="Python, JavaScript, C++, React, Node.js, Express, Django, Flask, MongoDB, MySQL, Git, Docker, Postman, TensorFlow and PyTorch" />
@@ -47,36 +39,36 @@ I’m a Computer Science Engineering student who enjoys taking ideas from a roug
 
 </div>
 
-## 🚀 Selected projects
+##  Selected projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI Resume Builder</h3>
+      <h3> AI Resume Builder</h3>
       <p>An AI-assisted platform for parsing resumes, improving summaries, and turning experience into STAR-method bullet points.</p>
       <sub><b>React · Node.js · Express · MongoDB · Groq · JWT</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 Interview Preparation Helper</h3>
+      <h3> Interview Preparation Helper</h3>
       <p>A secure resume-feedback platform that creates AI-driven reports, preserves history, and exports PDFs.</p>
       <sub><b>React · Node.js · Express · MongoDB · Gemini</b></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩺 Kidney Disease Classification</h3>
+      <h3> Kidney Disease Classification</h3>
       <p>An end-to-end MLOps workflow for CT-image classification, with a Flask diagnostic dashboard.</p>
       <sub><b>Python · TensorFlow · Flask · MLOps</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 Medical Chatbot</h3>
+      <h3> Medical Chatbot</h3>
       <p>A context-aware assistant for medical queries using vector search and a resource-efficient LLM workflow.</p>
       <sub><b>LLaMA 2 · LangChain · Pinecone · Flask</b></sub>
     </td>
   </tr>
 </table>
 
-## 💼 Experience snapshot
+##  Experience snapshot
 
 | Role | Where | What I worked on |
 | --- | --- | --- |
@@ -84,20 +76,6 @@ I’m a Computer Science Engineering student who enjoys taking ideas from a roug
 | **AI/ML Research Intern** | NIT Delhi | ML research for early detection and rural healthcare solutions |
 | **Full-Stack Intern** | Wayspire EdTech | React, Django, API integration, and responsive interfaces |
 
-## 📊 GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanishka-rani-2005&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=64748B" alt="Kanishka's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-rani-2005&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=64748B" alt="Kanishka's most-used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kanishka-rani-2005&hide_border=true&background=FFFFFF00&ring=8B5CF6&fire=F97316&currStreakLabel=8B5CF6" alt="Kanishka's contribution streak" />
-</div>
-
-<br />
-
-<div align="center">
 
 ### Let’s build something meaningful.
 
