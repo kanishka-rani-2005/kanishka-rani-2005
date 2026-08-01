@@ -81,7 +81,6 @@ I’m a Computer Science Engineering student who enjoys taking ideas from a roug
 
 I’m always happy to connect with people working on thoughtful software and practical AI.
 
-[![Say hello](https://img.shields.io/badge/Say_hello-Email_me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishka22043@gmail.com)
 [![Say hello](https://img.shields.io/badge/Say_hello-Email_me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kanishka22043%40gmail.com)
 
 📧 **Email:** [kanishka22043@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kanishka22043%40gmail.com)
