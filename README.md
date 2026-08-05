@@ -45,7 +45,7 @@ I’m a Computer Science Engineering student who enjoys taking ideas from a roug
   <tr>
     <td width="50%" valign="top">
       <h3> AI Resume Builder</h3>
-      <p>An AI-assisted platform for parsing resumes, improving summaries, and turning experience into STAR-method bullet points.</p>
+      <p>An AI-assisted platform for parsing resumes, improving summaries, and turning experience into bullet points.</p>
       <sub><b>React · Node.js · Express · MongoDB · Groq · JWT</b></sub>
     </td>
     <td width="50%" valign="top">
